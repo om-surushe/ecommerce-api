@@ -20,7 +20,7 @@ Follow these steps to set up the project:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/ecommerce-api.git
+   git clone https://github.com/om-surushe/ecommerce-api.git
    ```
 
 2. Change to the project directory:
