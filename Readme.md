@@ -1,8 +1,6 @@
-Certainly! Here's the updated version of the README file with the deployed API link and the missing endpoints:
+# E-commerce API
 
-# Looper Backend Test
-
-This repository contains the backend code for the Looper application. It provides API endpoints for user registration, login, managing products, coupons, and the shopping cart.
+An e-commerce API powered by FastAPI, enabling user registration and login, product management, and cart functionality. Users can register, log in, add products to their cart, apply coupons for discounts, and view their cart contents.
 
 ## Getting Started
 
