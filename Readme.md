@@ -145,8 +145,6 @@ Follow these steps to set up the project:
 - Postman Documentation: [E-commerce API on Postman](https://crimson-space-855487.postman.co/workspace/New-Team-Workspace~112b8954-25d6-4db8-a946-671daa31f633/collection/17084954-4a527a09-97c4-4fd7-b8aa-be2e3d17302e?action=share&creator=17084954)
 - Postman Collection: [postman.json](postman.json)
 
-```
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, please submit a pull request.
