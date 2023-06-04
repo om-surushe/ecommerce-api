@@ -22,7 +22,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://fastapi.om-pravinpravin.repl.co/register",
+					"raw": "http://localhost:8000/register",
 					"protocol": "https",
 					"host": [
 						"fastapi",
