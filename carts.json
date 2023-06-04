@@ -1,0 +1,23 @@
+{
+    "om-surushe": {
+        "username": "om-surushe",
+        "products": [
+            {
+                "productId": 1,
+                "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=780&q=80",
+                "name": "Pancake",
+                "price": 200.0,
+                "quantity": 50
+            }
+        ],
+        "total_price": 10000.0,
+        "total_quantity": 50,
+        "discounted_price": 9985.0,
+        "coupon": {
+            "code": "looperFlat15",
+            "discount": 15.0,
+            "discount_type": "amount",
+            "description": "Get Flat 15 off"
+        }
+    }
+}
